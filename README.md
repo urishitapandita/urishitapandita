@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 📝 I regularly write articles on [https://hashnode.com/@Urishita](https://hashnode.com/@Urishita)
-
 - 📫 How to reach me **urishitapandita745@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
