@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Urishita Pandita</h1>
 <h3 align="center">I am a tech enthusiast and I enjoy creating websites and applications that use cutting-edge technology stacks.</h3>
 
-- 🌱 I’m currently learning ** Web Development(MERN stack) and DSA**
+- 🌱 I’m currently learning **Web Development(MERN stack) and DSA**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
