@@ -25,4 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=urishitapandita&" alt="urishitapandita" /></p>
 
 
-[![Urishita's github activity graph](https://activity-graph.herokuapp.com/graph?username= urishitapandita)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![urishitapandita github activity graph](https://activity-graph.herokuapp.com/graph?username= urishitapandita)](https://github.com/ashutosh00710/github-readme-activity-graph)
