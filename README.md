@@ -7,9 +7,8 @@
 
 - 📫 How to reach me **urishitapandita745@gmail.com**
 
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=urishitapandita&style=flat-square&color=blue" alt=""/>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
