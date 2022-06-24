@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **urishitapandita745@gmail.com**
 
+- 💻 Looking for SDE intersnhip
+
 <br>
 <img src="https://komarev.com/ghpvc/?username=urishitapandita&style=flat-square&color=blue" alt=""/>
 
