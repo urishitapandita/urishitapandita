@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **urishitapandita745@gmail.com**
 
-- 💻 Looking for SDE internship.
+- 💻 Actively looking for SDE internship opportunities that would help improve my skills and expand my network.
 
 <br>
 <img src="https://komarev.com/ghpvc/?username=urishitapandita&style=flat-square&color=blue" alt=""/>
