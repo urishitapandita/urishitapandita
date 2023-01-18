@@ -1,5 +1,5 @@
 # About Me :
-🌱 I’m currently learning Web Development and DSA in C++.<br><br>👯 I’m looking to collaborate on open source projects.<br><br>📫 How to reach me : urishitapandita745@gmail.com<br><br>💻 Actively looking for SDE internship opportunities that would help improve my skills and expand my network.
+🌱 I’m currently learning full stack Javascript and DSA in C++.<br><br>👯 I’m looking to collaborate on open source projects.<br><br>📫 How to reach me : urishitapandita745@gmail.com<br><br>💻 Actively looking for SDE internship opportunities that would help improve my skills and expand my network.
 
 
 ## 🌐 Socials:
